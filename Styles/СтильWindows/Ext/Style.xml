@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Style xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
+	<Item name="FormBackColor">
+		<Color>win:ButtonFace</Color>
+	</Item>
+	<Item name="FormTextColor">
+		<Color>win:ButtonText</Color>
+	</Item>
+	<Item name="ButtonBackColor">
+		<Color>win:ButtonFace</Color>
+	</Item>
+	<Item name="ButtonTextColor">
+		<Color>win:ButtonText</Color>
+	</Item>
+	<Item name="FieldBackColor">
+		<Color>win:WindowBackground</Color>
+	</Item>
+	<Item name="FieldTextColor">
+		<Color>win:WindowText</Color>
+	</Item>
+	<Item name="FieldSelectionBackColor">
+		<Color>win:Highlight</Color>
+	</Item>
+	<Item name="FieldSelectedTextColor">
+		<Color>win:HighlightText</Color>
+	</Item>
+	<Item name="FieldAlternativeBackColor">
+		<Color>#00FFFF</Color>
+	</Item>
+	<Item name="ToolTipBackColor">
+		<Color>win:ToolTip</Color>
+	</Item>
+	<Item name="ToolTipTextColor">
+		<Color>win:ToolTipText</Color>
+	</Item>
+	<Item name="SpecialTextColor">
+		<Color>#FF0000</Color>
+	</Item>
+	<Item name="NegativeTextColor">
+		<Color>#FF0000</Color>
+	</Item>
+	<Item name="BorderColor">
+		<Color>win:ButtonShadow</Color>
+	</Item>
+	<Item name="ControlBorder">
+		<Border ref="style:ControlBorder"/>
+	</Item>
+	<Item name="TextFont">
+		<Font ref="style:TextFont" kind="StyleItem"/>
+	</Item>
+</Style>
